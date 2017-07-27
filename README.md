@@ -9,6 +9,8 @@ Used ubuntu latest ()16.04, xenial-20170710)
   
 ## Push docker
 
+> Login
+
 ``` 
 docker login
 ```
@@ -19,6 +21,7 @@ Password:
 Login Succeeded
 ```
 
+> Push
 
 ``` 
 docker push mental/base
